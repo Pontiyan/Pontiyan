@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+This is my first Git Repository.
+Author - Pontiyan Tuscano
 <!--
 **Pontiyan/Pontiyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
